@@ -1,0 +1,24 @@
+/* Header */
+
+/* Body */
+.bottom_border {
+  border-bottom: ridge;
+}
+.button_align {
+  display: flex;
+  justify-content: space-evenly;
+}
+.pass_border {
+  border-style: dashed;
+}
+.pad30 {
+  padding: 30px;
+}
+.text_center {
+  text-align: center;
+}
+.top_border {
+  border-top: ridge;
+}
+
+/* Footer */
